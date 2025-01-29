@@ -33,6 +33,7 @@ Below are some images showing the performance of the model:
 Confusion Matrix:
 1. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/302c8c16e405a6af534cbe502106ce2badad73ef/Screenshot%202025-01-29%20215057.png
 2. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/6d765c1e9e32b444d05a34391c0dcb26e746e330/Screenshot%202025-01-29%20215822.png
+3. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/6d765c1e9e32b444d05a34391c0dcb26e746e330/Screenshot%202025-01-29%20215828.png
 
 ROC Curve:
 1. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/302c8c16e405a6af534cbe502106ce2badad73ef/Screenshot%202025-01-29%20215814.png
