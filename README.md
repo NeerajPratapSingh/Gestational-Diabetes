@@ -40,7 +40,5 @@ ROC Curve:
 1. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/302c8c16e405a6af534cbe502106ce2badad73ef/Screenshot%202025-01-29%20215814.png
 2. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/c659bc9f16fa36536f2f51158e9f38eb2acce0d5/Screenshot%202025-01-29%20215845.png
 
-Feature Importance:
-
 ## Author  
 *Neeraj Pratap Singh*
