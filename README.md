@@ -30,9 +30,8 @@ Ensure you have the following installed:
 ## Results
 Below are some images showing the performance of the model:
 
-
 Confusion Matrix:
-
+1.https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/302c8c16e405a6af534cbe502106ce2badad73ef/Screenshot%202025-01-29%20215057.png
 
 ROC Curve:
 
