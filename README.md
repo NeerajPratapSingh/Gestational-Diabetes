@@ -40,5 +40,11 @@ ROC Curve:
 1. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/302c8c16e405a6af534cbe502106ce2badad73ef/Screenshot%202025-01-29%20215814.png
 2. https://github.com/NeerajPratapSingh/Gestational-Diabetes/blob/c659bc9f16fa36536f2f51158e9f38eb2acce0d5/Screenshot%202025-01-29%20215845.png
 
+Here are the accuracy results for the four models:
+1. Random Forest Classifier – 95%
+2. MLP (Multi-Layer Perceptron) Classifier – 89.12%
+3. Support Vector Machine (SVM) – 79%
+4. Logistic Regression – 77%
+
 ## Author  
 *Neeraj Pratap Singh*
