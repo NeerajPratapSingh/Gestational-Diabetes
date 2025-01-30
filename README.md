@@ -21,6 +21,10 @@ The dataset includes medical records with risk factors for diabetes.
 5. Model Evaluation:
    After training, the script will evaluate the model using a test dataset. The evaluation results, including metrics like accuracy, sensitivity, specificity, and AUC score, will be printed.
 
+## Running on Google Colab  
+This project can be executed on **Google Colab** for easy access and faster training with GPU/TPU support.  
+To run it on Colab:  
+
 ## Dependencies  
 Ensure you have the following installed:  
 - Python 3.8+  
