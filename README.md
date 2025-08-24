@@ -1,6 +1,7 @@
 #GDM Early Prediction using Machine Learning
 
 Project Overview
+
 This project focuses on the development and training of machine learning models to predict the risk of Gestational Diabetes Mellitus (GDM) early in pregnancy. The trained models leverage clinical and biochemical data (e.g., age, BMI, family history of diabetes) to accurately predict the likelihood of GDM well before the traditional diagnostic window. This tool can potentially help healthcare providers identify at-risk pregnancies earlier and implement timely interventions to improve maternal and fetal health.
 
 This project predicts Gestational Diabetes Mellitus (GDM) using machine learning models:  
